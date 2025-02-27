@@ -132,4 +132,4 @@ dist
 # ignore all files txt
 *.txt
 
-for ignor.txt
+.for ignor.txt
