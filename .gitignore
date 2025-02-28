@@ -129,7 +129,3 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# ignore all files txt
-*.txt
-
-.for ignor.txt
